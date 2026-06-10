@@ -7,23 +7,23 @@ Currently completing my **Master's in Computer Science** at the **Technical Univ
 ## Tech Stack
 
 **Client** &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
 
 **Server** &nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 
 **Mobile** &nbsp;
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=fff)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-06B6D4?style=for-the-badge&logo=swift&logoColor=fff)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-06B6D4?logo=swift&logoColor=fff)
 
 **Testing** &nbsp;
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=fff)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
 
 ## Featured Projects
 
@@ -48,5 +48,5 @@ Currently completing my **Master's in Computer Science** at the **Technical Univ
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/florian-glombik)
-[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=fff)](https://florian-glombik.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/florian-glombik)
+[![Website](https://img.shields.io/badge/Website-000?logo=googlechrome&logoColor=fff)](https://florian-glombik.de)
