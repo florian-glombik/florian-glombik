@@ -27,9 +27,11 @@ Currently completing my **Master's in Computer Science** at the **Technical Univ
 
 ## Featured Projects
 
-| Project                                                                           | Description                                                                            |
-|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| [workplace-reservation](https://github.com/florian-glombik/workplace-reservation) | A solution to manage the capacity of a shared office                                   |
+| Project | Description |
+|---------|-------------|
+| [Artemis](https://github.com/ls1intum/Artemis) | Open-source interactive learning management system developed at TU Munich — programming exercises, modeling, quizzes with automated feedback. Contributed as a full-stack developer for 3+ years, integrating passkey authentication, new user roles, and exam review UI/UX improvements |
+| [TUM Trust Center](https://apps.apple.com/de/app/tum-trust-center/id6739583554) | iOS app for TUM members to securely review and sign documents with advanced and qualified electronic signatures. Set up the project architecture (MVVM) and implemented eID integration via AusweisApp SDK |
+| [workplace-reservation](https://github.com/florian-glombik/workplace-reservation) | A solution to manage the capacity of a shared office |
 | [github-review-balance](https://github.com/florian-glombik/github-review-balance) | Analyze PR review activity and track the balance of code reviews between collaborators |
 
 ## GitHub Stats
